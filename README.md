@@ -4,7 +4,9 @@
 
 ## 在线体验
 
-直接用浏览器打开 `index.html` 即可，纯前端、零依赖、无需安装任何东西。
+**👉 [点这里直接在线玩](https://wbapp-oam5w8upkpuo4pobjmojih.app.workbuddy.host/?sharecode=2T6ZUHWC3O)** —— 任何浏览器打开即可，手机也能玩，无需安装任何东西。
+
+或者把本仓库下载到本地，直接用浏览器打开 `index.html`，纯前端、零依赖。
 
 ## 特色
 
